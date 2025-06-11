@@ -30,8 +30,7 @@ GitHub: [GAYATHRI1006](https://github.com/GAYATHRI1006)
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/react-currency-converter.git
-cd react-currency-converter
+git clone https://github.com/GAYATHRI1006/Currency_Converter_using_React.git
 ```
 
 ### 2. Install Dependencies
@@ -58,7 +57,7 @@ npm run dev
 ## API Used
 
 - [ExchangeRate API](https://www.exchangerate-api.com/)  
-  > You can replace this API with any free currency API if needed.
+You can replace this API with any free currency API if needed.
 
 
 
